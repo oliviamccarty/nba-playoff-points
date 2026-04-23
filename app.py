@@ -36,7 +36,7 @@ TEAMS = {
         "Donovan Mitchell",
         "Anthony Edwards",
         "Jaden McDaniels",
-        "Nikola Vucevic",
+        "Nikola Vučević",
         "Christian Braun",
     ],
     "Ryan": [
@@ -47,7 +47,7 @@ TEAMS = {
         "Deni Avdija",
     ],
     "Bradley": [
-        "Nikola Jokic",
+        "Nikola Jokić",
         "Kevin Durant",
         "Aaron Gordon",
         "Tyrese Maxey",
